@@ -1,0 +1,15 @@
+<project>
+  <name>Test005_amo</name>
+  <modules>
+    <module>
+      <name>AUTO</name>
+      <rules-root path="rules/AUTO-NZ-*.xls"/>
+    </module>
+  </modules>
+  <classpath>
+    <entry path="."/>
+    <entry path="test_jar.jar"/>
+    <entry path="target/classes"/>
+    <entry path="lib"/>
+  </classpath>
+</project>
