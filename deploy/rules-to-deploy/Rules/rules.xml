@@ -1,0 +1,13 @@
+<project>
+  <name>rules-to-deploy</name>
+  <modules>
+    <module>
+      <name>main</name>
+      <rules-root path="main.xlsx"/>
+    </module>
+
+  </modules>
+  <classpath>
+    <entry path="lib/*.jar"/>
+  </classpath>
+</project>

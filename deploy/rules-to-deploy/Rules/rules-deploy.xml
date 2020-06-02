@@ -1,0 +1,8 @@
+<rules-deploy>
+    <serviceName>deployed-rules</serviceName>
+    <publishers>
+        <publisher>WEBSERVICE</publisher>
+        <publisher>RESTFUL</publisher>
+    </publishers>
+    <url>deployed-rules</url>
+</rules-deploy>
