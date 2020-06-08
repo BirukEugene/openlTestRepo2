@@ -1,6 +1,6 @@
 <project>
   <name>Example3</name>
-  <comment>test123</comment>
+  <comment>test321</comment>
   <modules>
     <module>
       <name>AutoPolicyCalculation</name>
