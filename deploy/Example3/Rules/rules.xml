@@ -1,0 +1,14 @@
+<project>
+  <name>Example3</name>
+  <comment>test321</comment>
+  <modules>
+    <module>
+      <name>AutoPolicyCalculation</name>
+      <rules-root path="AutoPolicyCalculation.xlsx"/>
+    </module>
+    <module>
+      <name>AutoPolicyTests</name>
+      <rules-root path="AutoPolicyTests.xlsx"/>
+    </module>
+  </modules>
+</project>
